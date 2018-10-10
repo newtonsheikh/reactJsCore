@@ -232,3 +232,8 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+dist/bundle.js
+dist/bundle.js
+/ClientApp/App.js.map
+/ClientApp/App.js
+dist/bundle.js
